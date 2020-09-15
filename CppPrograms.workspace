@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="CppPrograms" Database="" Version="10000">
+  <Project Name="Flow" Path="Flow/Flow.project" Active="No"/>
+  <Project Name="CanYouDrive" Path="CanYouDrive/CanYouDrive.project" Active="No"/>
+  <Project Name="Area_Or_Perimeter" Path="Area_Or_Perimeter/Area_Or_Perimeter.project" Active="No"/>
+  <Project Name="NestedIf" Path="NestedIf/NestedIf.project" Active="No"/>
+  <Project Name="Switch" Path="Switch/Switch.project" Active="No"/>
+  <Project Name="Enumeration" Path="Enumeration/Enumeration.project" Active="No"/>
+  <Project Name="SwitchDay" Path="SwitchDay/SwitchDay.project" Active="No"/>
+  <Project Name="ConditionalOperator" Path="ConditionalOperator/ConditionalOperator.project" Active="No"/>
+  <Project Name="Looping" Path="Looping/Looping.project" Active="No"/>
+  <Project Name="SumOfOdds" Path="SumOfOdds/SumOfOdds.project" Active="No"/>
+  <Project Name="RangeBasedFor" Path="RangeBasedFor/RangeBasedFor.project" Active="No"/>
+  <Project Name="WhileLoop" Path="WhileLoop/WhileLoop.project" Active="No"/>
+  <Project Name="NestedLoops" Path="NestedLoops/NestedLoops.project" Active="No"/>
+  <Project Name="SumOfProduct" Path="SumOfProduct/SumOfProduct.project" Active="No"/>
+  <Project Name="Challenge9" Path="Challenge9/Challenge9.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Flow" ConfigName="Debug"/>
+      <Project Name="CanYouDrive" ConfigName="Debug"/>
+      <Project Name="Area_Or_Perimeter" ConfigName="Debug"/>
+      <Project Name="NestedIf" ConfigName="Debug"/>
+      <Project Name="Switch" ConfigName="Debug"/>
+      <Project Name="Enumeration" ConfigName="Debug"/>
+      <Project Name="SwitchDay" ConfigName="Debug"/>
+      <Project Name="ConditionalOperator" ConfigName="Debug"/>
+      <Project Name="Looping" ConfigName="Debug"/>
+      <Project Name="SumOfOdds" ConfigName="Debug"/>
+      <Project Name="RangeBasedFor" ConfigName="Debug"/>
+      <Project Name="WhileLoop" ConfigName="Debug"/>
+      <Project Name="NestedLoops" ConfigName="Debug"/>
+      <Project Name="SumOfProduct" ConfigName="Debug"/>
+      <Project Name="Challenge9" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Flow" ConfigName="Release"/>
+      <Project Name="CanYouDrive" ConfigName="Release"/>
+      <Project Name="Area_Or_Perimeter" ConfigName="Release"/>
+      <Project Name="NestedIf" ConfigName="Release"/>
+      <Project Name="Switch" ConfigName="Release"/>
+      <Project Name="Enumeration" ConfigName="Release"/>
+      <Project Name="SwitchDay" ConfigName="Release"/>
+      <Project Name="ConditionalOperator" ConfigName="Release"/>
+      <Project Name="Looping" ConfigName="Release"/>
+      <Project Name="SumOfOdds" ConfigName="Release"/>
+      <Project Name="RangeBasedFor" ConfigName="Release"/>
+      <Project Name="WhileLoop" ConfigName="Release"/>
+      <Project Name="NestedLoops" ConfigName="Release"/>
+      <Project Name="SumOfProduct" ConfigName="Release"/>
+      <Project Name="Challenge9" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
