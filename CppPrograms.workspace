@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="CppPrograms" Database="" Version="10000">
-  <Project Name="Flow" Path="Flow/Flow.project" Active="No"/>
-  <Project Name="CanYouDrive" Path="CanYouDrive/CanYouDrive.project" Active="No"/>
-  <Project Name="Area_Or_Perimeter" Path="Area_Or_Perimeter/Area_Or_Perimeter.project" Active="No"/>
-  <Project Name="NestedIf" Path="NestedIf/NestedIf.project" Active="No"/>
-  <Project Name="Switch" Path="Switch/Switch.project" Active="No"/>
-  <Project Name="Enumeration" Path="Enumeration/Enumeration.project" Active="No"/>
-  <Project Name="SwitchDay" Path="SwitchDay/SwitchDay.project" Active="No"/>
-  <Project Name="ConditionalOperator" Path="ConditionalOperator/ConditionalOperator.project" Active="No"/>
-  <Project Name="Looping" Path="Looping/Looping.project" Active="No"/>
-  <Project Name="SumOfOdds" Path="SumOfOdds/SumOfOdds.project" Active="No"/>
-  <Project Name="RangeBasedFor" Path="RangeBasedFor/RangeBasedFor.project" Active="No"/>
-  <Project Name="WhileLoop" Path="WhileLoop/WhileLoop.project" Active="No"/>
-  <Project Name="NestedLoops" Path="NestedLoops/NestedLoops.project" Active="No"/>
-  <Project Name="SumOfProduct" Path="SumOfProduct/SumOfProduct.project" Active="No"/>
-  <Project Name="Challenge9" Path="Challenge9/Challenge9.project" Active="Yes"/>
+  <Project Name="Challenge9" Path="Challenge9/Challenge9.project" Active="No"/>
+  <Project Name="doesNotMatter" Path="doesNotMatter/doesNotMatter.project" Active="No"/>
+  <Project Name="cstyle" Path="cstyle/cstyle.project" Active="No"/>
+  <Project Name="challenge10" Path="challenge10/challenge10.project" Active="No"/>
+  <Project Name="CypherCpp" Path="CypherCpp/CypherCpp.project" Active="No"/>
+  <Project Name="Functions" Path="Functions/Functions.project" Active="No"/>
+  <Project Name="LetterPyramid" Path="LetterPyramid/LetterPyramid.project" Active="No"/>
+  <Project Name="Temperatures" Path="Temperatures/Temperatures.project" Active="No"/>
+  <Project Name="ReloadFunctions" Path="ReloadFunctions/ReloadFunctions.project" Active="No"/>
+  <Project Name="Guest_list" Path="Guest_list/Guest_list.project" Active="No"/>
+  <Project Name="PassByReference" Path="PassByReference/PassByReference.project" Active="No"/>
+  <Project Name="RecursiveFunctions" Path="RecursiveFunctions/RecursiveFunctions.project" Active="No"/>
+  <Project Name="Recursive" Path="Recursive/Recursive.project" Active="No"/>
+  <Project Name="Challenge11" Path="Challenge11/Challenge11.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -33,6 +32,19 @@
       <Project Name="NestedLoops" ConfigName="Debug"/>
       <Project Name="SumOfProduct" ConfigName="Debug"/>
       <Project Name="Challenge9" ConfigName="Debug"/>
+      <Project Name="doesNotMatter" ConfigName="Debug"/>
+      <Project Name="cstyle" ConfigName="Debug"/>
+      <Project Name="challenge10" ConfigName="Debug"/>
+      <Project Name="CypherCpp" ConfigName="Debug"/>
+      <Project Name="Functions" ConfigName="Debug"/>
+      <Project Name="LetterPyramid" ConfigName="Debug"/>
+      <Project Name="Temperatures" ConfigName="Debug"/>
+      <Project Name="ReloadFunctions" ConfigName="Debug"/>
+      <Project Name="Guest_list" ConfigName="Debug"/>
+      <Project Name="PassByReference" ConfigName="Debug"/>
+      <Project Name="RecursiveFunctions" ConfigName="Debug"/>
+      <Project Name="Recursive" ConfigName="Debug"/>
+      <Project Name="Challenge11" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -51,6 +63,19 @@
       <Project Name="NestedLoops" ConfigName="Release"/>
       <Project Name="SumOfProduct" ConfigName="Release"/>
       <Project Name="Challenge9" ConfigName="Release"/>
+      <Project Name="doesNotMatter" ConfigName="Release"/>
+      <Project Name="cstyle" ConfigName="Release"/>
+      <Project Name="challenge10" ConfigName="Release"/>
+      <Project Name="CypherCpp" ConfigName="Release"/>
+      <Project Name="Functions" ConfigName="Release"/>
+      <Project Name="LetterPyramid" ConfigName="Release"/>
+      <Project Name="Temperatures" ConfigName="Release"/>
+      <Project Name="ReloadFunctions" ConfigName="Release"/>
+      <Project Name="Guest_list" ConfigName="Release"/>
+      <Project Name="PassByReference" ConfigName="Release"/>
+      <Project Name="RecursiveFunctions" ConfigName="Release"/>
+      <Project Name="Recursive" ConfigName="Release"/>
+      <Project Name="Challenge11" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
